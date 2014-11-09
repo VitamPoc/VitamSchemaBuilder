@@ -1,0 +1,7 @@
+/target/
+.classpath
+/doc/
+/.settings/
+javadoc-apiviz.xml
+/src/main/xml/
+
