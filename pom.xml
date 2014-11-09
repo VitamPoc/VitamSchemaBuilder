@@ -43,6 +43,7 @@
         </configuration>
       </plugin>
     </plugins>
+     </reporting>
  <build>
     <plugins>
       <plugin>
@@ -87,5 +88,5 @@
   </distributionManagement>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>  </reporting>
+  </properties> 
 </project>
